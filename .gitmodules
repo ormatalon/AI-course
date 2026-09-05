@@ -1,0 +1,3 @@
+[submodule "cursor_kanban"]
+	path = cursor_kanban
+	url = https://github.com/ed-donner/kanban.git
